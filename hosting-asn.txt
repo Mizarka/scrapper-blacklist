@@ -104,6 +104,12 @@
 # Clouvider
 62240
 
+# code200
+203061
+205659
+205964
+209709
+
 # Colocation America Corporation
 21769
 
@@ -133,6 +139,9 @@
 
 # Fastly Inc.
 54113
+
+# FDCservers.net
+30058
 
 # FranTech
 53667
@@ -180,11 +189,35 @@
 # Ionos
 8560
 
+# IPXON
+263812
+
 # Latitude.sh
 396356
 
-# Leaseweb
+# Leaseweb (APNIC)
+133752
+136988
+
+# Leaseweb (ARIN)
+15003
+19148
+25847
+27411
+30633
+32613
+32804
+40699
 393886
+394380
+395954
+396190
+396362
+
+# Leaseweb (RIPE)
+28753
+60781
+205544
 
 # Liteserver
 60404
@@ -243,3 +276,9 @@
 
 # Web2Objects
 62874
+
+# Wildcard UK
+34119
+
+# Zenex 5ive
+209181
