@@ -1,0 +1,38 @@
+#
+# Scrapper ASN list
+#
+# This is a list of ASNs that are used solely for scrapping. You will only
+# receive scrapping traffic from these, never from legit users. Mizarka
+# recommends that you completely block them.
+#
+
+# Alibaba US
+45102
+
+# BytePlus
+150436
+
+# code200
+203061
+209709
+
+# DMZ Host
+48090
+
+# Meta/Facebook (don't believe they respect robots.txt - THEY DO NOT)
+32934
+
+# Net3 AI
+46635
+
+# Oculus Networks
+398781
+
+# Oxylabs ("High Quality Proxy Service to Gather Data at Scale")
+396319
+
+# Simoresta (link to IPRoyal.com on the footer, "proxy infrastructure")
+211440
+
+# Tencent
+132203
