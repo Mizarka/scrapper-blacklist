@@ -12,7 +12,7 @@
 # BytePlus (ByteDance scrapping)
 150436
 
-# code200 (lots of scrappers, no abuse contact)
+# code200 (lots of scrappers, no abuse contact, fake internet signup button)
 203061
 205659
 205964
@@ -51,3 +51,7 @@
 202496
 203098
 212144
+
+# UHQ Services (no real services offered, plus scrapping and hacking attempts)
+53514
+
