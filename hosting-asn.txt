@@ -104,12 +104,6 @@
 # Clouvider
 62240
 
-# code200
-203061
-205659
-205964
-209709
-
 # Colocation America Corporation
 21769
 
@@ -130,9 +124,6 @@
 
 # DigitalOcean
 14061
-
-# DZCRD Networks
-132817
 
 # EndOffice
 64249
@@ -191,9 +182,6 @@
 
 # IPXON
 263812
-
-# Latitude.sh
-396356
 
 # Leaseweb (APNIC)
 133752
@@ -257,13 +245,6 @@
 
 # Servers.com
 7979
-
-# trafficforce
-133944
-201341
-202496
-203098
-212144
 
 # U1 Host
 213877

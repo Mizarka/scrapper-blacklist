@@ -1,23 +1,31 @@
 #
 # Scrapper ASN list
 #
-# This is a list of ASNs that are used solely for scrapping. You will only
-# receive scrapping traffic from these, never from legit users. Mizarka
-# recommends that you completely block them.
+# This is a list of ASNs that Mizarka has found are solely used for
+# scrapping, never for real user traffic. This one recommends that you
+# simply drop all traffic entirely.
 #
 
-# Alibaba US
+# Alibaba US (hosting, but no real user will be hosting a VPN here)
 45102
 
-# BytePlus
+# BytePlus (ByteDance scrapping)
 150436
 
-# code200
+# code200 (lots of scrappers, no abuse contact)
 203061
+205659
+205964
 209709
 
-# DMZ Host
+# DMZ Host (lots of scrappers, "bullet-proof" with no abuse contact)
 48090
+
+# DZCRD Networks (fishy, lots of scrappers, no working contact mechanism)
+132817
+
+# Latitude.sh (fishy, no website, lots of scrappers)
+396356
 
 # Meta/Facebook (don't believe they respect robots.txt - THEY DO NOT)
 32934
@@ -34,5 +42,12 @@
 # Simoresta (link to IPRoyal.com on the footer, "proxy infrastructure")
 211440
 
-# Tencent
+# Tencent (true hosting, but no real user will be hosting a VPN here)
 132203
+
+# trafficforce (fishy, no website)
+133944
+201341
+202496
+203098
+212144
